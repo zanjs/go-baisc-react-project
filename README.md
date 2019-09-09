@@ -1,5 +1,7 @@
 # React + Go 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/go-baisc-react-project.svg)](https://greenkeeper.io/)
+
 This repository is only for educational purposes. You will find a basic implementation of an application using [React](https://facebook.github.io/react/) and the [Go Programming Language](https://golang.org/)
 
 If you are going to create an production application, you would need somewhere to store and retrieve data. However, that is beyond the scope of this repository, so I simply created a very crude (and not thread safe) mock database.
